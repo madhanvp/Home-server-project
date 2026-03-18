@@ -15,3 +15,5 @@
 Install SSH:
 ```bash
 sudo apt install openssh-server
+
+ssh username@server-ip
