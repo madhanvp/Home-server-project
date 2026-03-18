@@ -9,6 +9,12 @@ The goal is to learn by doing real-world setups on my local machine.
 
 ## 🧱 Architecture
 
+Client (Mobile / Laptop)
+↓
+Application Layer
+↓
+Data Layer (DB + Cache)
+
 More details → `docs/architecture.md`
 
 ---
